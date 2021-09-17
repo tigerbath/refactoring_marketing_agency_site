@@ -1,20 +1,23 @@
-# refactoring_marketing_agency_site
+# Project brief & notes
 
-add a brief description of the project here
+I have been tasked to analyse and optimize Horiseon's web page, improving semantic elements and adding descriptive elements to improve SEO discoverability aswell as accessibility.
 
 
-## github pages
+## Link to Github pages
 
 add the link to the github pages here
 
-## What did you do?
+## What i've done
 
-- add some high level points here
+* improved semantic HTML 
+* removed unneeded HTML & CSS
+* added descriptives to image elements 
+
 
 ## Technologies used
 
--HTML
--CSS
+* HTML
+* CSS
 
 ## Screenshots
 
