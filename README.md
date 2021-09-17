@@ -5,7 +5,7 @@ I have been tasked to analyse and optimize Horiseon's web page, improving semant
 
 ## Link to Github pages
 
-<a href= "https://github.com/tigerbath/refactoring_marketing_agency_site/tree/dev">Link to my git pages</a>
+<a href= "https://tigerbath.github.io/refactoring_marketing_agency_site">Link to my git pages</a>
 
 ## What i've done
 
@@ -21,14 +21,19 @@ I have been tasked to analyse and optimize Horiseon's web page, improving semant
 
 ## Screenshots
 
-<img src="assets\images\Horiseon.png"
-alt="screenshot of Horiseon site after changes">
-
-<img src="assets\images\refactoring"
-alt="screenshot of Horiseon site after changes">
 
 <img src="assets\images\Horiseon.png"
 alt="screenshot of Horiseon site after changes">
+* _Screenshot of Horiseon site after changes_
 
-<img src="assets\images\Horiseon.png"
-alt="screenshot of Horiseon site after changes">
+<img src="assets\images\Refactoring CSS 2.PNG"
+alt="screenshot of CSS Style sheet">
+* _Screenshot of CSS style sheet ammendments_
+
+<img src="assets\images\Refactoring CSS 3.PNG"
+alt="screenshot of CSS Style sheet">
+* _Screenshot of CSS style sheet ammendments_
+
+<img src="assets\images\Refactoring CSS.PNG"
+alt="screenshot of style sheet">
+* _Screenshot of CSS style sheet ammendments_
