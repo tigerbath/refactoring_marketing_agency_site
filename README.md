@@ -5,7 +5,7 @@ I have been tasked to analyse and optimize Horiseon's web page, improving semant
 
 ## Link to Github pages
 
-add the link to the github pages here
+<a href= "https://github.com/tigerbath/refactoring_marketing_agency_site/tree/dev">Link to my git pages</a>
 
 ## What i've done
 
@@ -21,4 +21,14 @@ add the link to the github pages here
 
 ## Screenshots
 
-Add screenshots here. See markdown cheat-sheet on how to add images
+<img src="assets\images\Horiseon.png"
+alt="screenshot of Horiseon site after changes">
+
+<img src="assets\images\refactoring"
+alt="screenshot of Horiseon site after changes">
+
+<img src="assets\images\Horiseon.png"
+alt="screenshot of Horiseon site after changes">
+
+<img src="assets\images\Horiseon.png"
+alt="screenshot of Horiseon site after changes">
