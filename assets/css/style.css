@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* properties for header bar*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ body {
 .header h1 .seo {
     color: #d8d3d3;
 }
+
+/* properties for navigation bar*/
 
 .header nav {
     padding-top: 15px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* properties for image of workers at desk */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +80,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* properties for aside section on right side of page */
 
 .benefits {
     margin-right: 20px;
@@ -119,6 +127,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* properties for footer section */
 
 .footer {
     padding: 30px;
